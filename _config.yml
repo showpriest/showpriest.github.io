@@ -5,7 +5,7 @@ url: "https://showpriest.github.io"
 permalink: ":title/"
 
 markdown: kramdown
-baseurl: "/showpriest"
+baseurl: ""
 full-version: "https://showpriest.github.io"
 
 sass:
