@@ -1,8 +1,8 @@
 
 title: showpriest
 desctiption: showpriest is a responsive jekyll theme which includes pinterest like pins.
-url: https://showpriest.github.io
-permalink: ':title/'
+url: "https://showpriest.github.io"
+permalink: ":title/"
 
 markdown: kramdown
 baseurl: "/showpriest"
