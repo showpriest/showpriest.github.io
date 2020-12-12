@@ -6,6 +6,7 @@ permalink: ":title/"
 
 markdown: kramdown
 baseurl: "/showpriest"
+full-version: "https://showpriest.github.io"
 
 sass:
     style: compressed
