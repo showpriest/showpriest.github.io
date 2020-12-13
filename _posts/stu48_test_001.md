@@ -11,5 +11,5 @@ author: showpriest
 
 TEST_002
 
-![showpirest]({{site.baseurl}}/stu48/201211%20%EB%82%98%EC%9D%98%ED%83%9C%EC%96%91%20(4).gif)
+![showpirest]({{site.baseurl}}/images/stu48/201211%20%EB%82%98%EC%9D%98%ED%83%9C%EC%96%91%20(4).gif)
 
