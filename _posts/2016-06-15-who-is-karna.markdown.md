@@ -3,8 +3,8 @@ layout: post
 title:  "title_test"
 description: description test. 
 date:   2020-12-13 10:51:47 +0530
-img: /hinatazaka46/128210284_319447825691207_9083219770363429626_n_4.gif
 categories: hinatazaka46
+img: /hinatazaka46/128210284_319447825691207_9083219770363429626_n_4.gif
 color: 7DC8E9
 author: showpriest
 ---
