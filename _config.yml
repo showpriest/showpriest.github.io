@@ -4,6 +4,8 @@ desctiption: showpriest is a responsive jekyll theme which includes pinterest li
 url: "https://showpriest.github.io"
 permalink: ":title/"
 
+category_list: akb48, nmb48, stu48, nogizaka46, sakurazaka46, hinatazaka46, babababambi
+
 markdown: kramdown
 baseurl: ""
 full-version: "https://showpriest.github.io"
